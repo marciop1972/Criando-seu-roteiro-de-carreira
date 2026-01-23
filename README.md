@@ -15,7 +15,7 @@ Olá! Sou seu entrevistador de carreira em tecnologia. Vou fazer 7 perguntas rá
 7) Você tem alguma experiência prévia que gostaria de aproveitar nessa nova jornada?
 [Após 7 respostas, analisar e sugerir 3 carreiras ranqueadas; depois handoff para agente especialista]
 
-Resultado obtido com o Prompt 1:
+Resposta do Agente 1:
 
 ### Entrevista de Carreira — Conversa Exemplo
 
@@ -224,7 +224,7 @@ OBJETIVO:
 • 	Transição: destacar transferência de skills
 • 	Crescimento: focar em skills avançadas
 
-Resultado obtido como Prompt 2:
+Resposta do Agente 2:
 
 Entendi perfeitamente a missão 🎯. Para eu montar o roadmap completo, preciso receber os dados do **Agent 1** que você mencionou:
 
